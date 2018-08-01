@@ -1,0 +1,4 @@
+<?
+$MESS["LANDING_DEMO_STORE_MINI_CATALOG_SITE_TXT_1"] = "Хендмейд-магазин";
+$MESS["LANDING_DEMO_STORE_MINI_CATALOG_SITE_DESC"] = "Невеликий шаблон для невеликого магазину товарів ручної роботи.";
+?>
